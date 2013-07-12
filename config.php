@@ -5,6 +5,6 @@
  * A single location to store configuration.
  */
 
-define('CONSUMER_KEY', 'ZcymUJiNPa5J0c86SLaQ');
-define('CONSUMER_SECRET', '1mHSDLyWrSZpLVYGKVpLrJCl7TeL7gbepNr9JGuzJg');
+define('CONSUMER_KEY', 'a');
+define('CONSUMER_SECRET', 'b');
 define('OAUTH_CALLBACK', 'http://poliu.co.nf/callback.php');
