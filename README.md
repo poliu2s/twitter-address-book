@@ -5,4 +5,4 @@ A simple web-based address book that can help store information about contacts a
 
 Currently live at http://www.poliu.ca
 
-Send me a tweet if you have questions @poliu2s.
+Send me a tweet if you have suggestions or questions @poliu2s.
